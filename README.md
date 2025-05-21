@@ -1,5 +1,4 @@
-<img width="1435" alt="Screenshot 2025-05-21 at 2 06 36 PM" src="https://github.com/user-attachments/assets/6cfad7ff-0576-4893-b8e4-56df73da44f1" />
-
+<img width="1440" alt="Screenshot 2025-05-21 at 3 32 37 PM" src="https://github.com/user-attachments/assets/5442613a-190b-43ba-9f2a-d810cb20c5cc" />
 
 # Outreach Automation Agent for Matherson and Sons
 
@@ -33,6 +32,7 @@ pip install -r requirements.txt
 ```bash
 python -m agent.main
 ```
+
 
 
 
