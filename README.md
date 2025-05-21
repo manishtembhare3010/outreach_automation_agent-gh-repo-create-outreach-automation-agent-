@@ -1,3 +1,6 @@
+<img width="1435" alt="Screenshot 2025-05-21 at 2 06 36 PM" src="https://github.com/user-attachments/assets/6cfad7ff-0576-4893-b8e4-56df73da44f1" />
+
+
 # Outreach Automation Agent for Matherson and Sons
 
 A production-level AI agent that automates outreach campaigns for Australian manufacturing & construction companies.
@@ -30,3 +33,6 @@ pip install -r requirements.txt
 ```bash
 python -m agent.main
 ```
+
+
+
